@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseloll&label=Profile%20views&color=0e75b6&style=flat" alt="joseloll" /> </p>
 
-- 🌱 I’m currently learning **C# and GOLang**
+- I’m currently learning **C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
